@@ -1,0 +1,8 @@
+
+# Auto-generated
+bharatauth.egg-info/
+__pycache__/
+*.pyc
+dist/
+build/
+*.code-workspace
