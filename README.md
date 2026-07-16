@@ -238,4 +238,4 @@ set_email_backend(MyEmailBackend())
 
 ## License
 
-MIT — Copyright JamBuster Technologies Pvt Ltd
+MIT — Copyright BharatAuth 
